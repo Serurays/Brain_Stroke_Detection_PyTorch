@@ -10,4 +10,4 @@ s3fs
 streamlit
 torch
 torchvision
-PIL
+Pillow
